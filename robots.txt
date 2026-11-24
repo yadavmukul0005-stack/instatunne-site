@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://instatunne.com/sitemap.xml
